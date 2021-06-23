@@ -1,0 +1,25 @@
+body { 
+  background-color: rgb(230, 230, 230);
+  color: rgb(30, 30, 30);
+  font-family: font-family: 'Roboto', sans-serif; 
+  font-size: 25px;
+}
+
+h1 {
+  color: purple;
+  font-family: font-family: 'Ubuntu', sans-serif; 
+  font-size: 40px; 
+}
+
+h2 {
+  color: skyblue;
+  font-family: font-family: 'Ubuntu', sans-serif; 
+  font-size: 40px; 
+}
+a {
+  text-decoration: none;
+  color: seagreen;
+}
+a:hover  {
+  color: orangered;
+}
